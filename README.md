@@ -1,2 +1,3 @@
-# april-fools-overlay
-Things that no one in their right mind should ever use
+# April Fool's Overlay
+
+Cool things that no one should ever use.
